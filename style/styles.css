@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(93, 51, 46);
+    color: white;
+    font-family: "Jost", serif;
+    font-size: large;
+}
+
+header {
+    text-align: center;
+}
+
+header p {
+    margin-bottom: 30px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 3.25rem;
+    margin-bottom: 0px;
+}
+
+h1, h2 {
+    color: rgb(249, 214, 146);
+}
+
+.header-image {
+    width: 80%;
+    border: 8px solid rgb(37, 45, 20);
+}
+
